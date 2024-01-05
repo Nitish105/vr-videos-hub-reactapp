@@ -1,7 +1,15 @@
 # VR VIDEOS HUB REACT APP <br>
+## Introduction
+This is the Videos Hub React app. This react app feature includes uploading videos, a login page, a register page, and also dark mode. And Using the Vercel hosting website which deploys this react app. 
 
-This is the Videos Hub React app. This react app features upload videos, a login page, a register page, and dark mode. And Using the Vercel hosting website which deploys this react app. 
-## Link👉 https://vr-videos-hub-reactapp.vercel.app/
+### Link👉 https://vr-videos-hub-reactapp.vercel.app/
+
+### Tech Stack
+Frontend Part: Reactjs, Hooks, ChakraUI
+
+### Project Demo
+![video-hub](https://github.com/Nitish105/vr-videos-hub-reactapp/assets/83354680/50060729-8e53-44b1-9542-c7fb799aac7c)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
